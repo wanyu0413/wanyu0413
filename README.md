@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wanyu Jiang</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://wanyujiang.netlify.app/](https://wanyujiang.netlify.app/)
+- 👨‍💻 All of my projects are available at https://wanyuj.netlify.app/
 
 - 📫 How to reach me **wanyu19930930@gmail.com**
 
